@@ -2439,7 +2439,9 @@ font-size: 2em;
 z-index:-1;
   
 }
-
+.other-footer{
+    margin-top:5rem;
+}
 .services-offer{
   position:relative;
   margin-top:5rem;
